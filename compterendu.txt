@@ -1,1 +1,49 @@
-compte rendu 
+							compte rendu
+
+1. Introduction et objectifs :
+
+L'objectif principal de ce TP était de se familiariser avec l'utilisation de GitHub pour le travail collaboratif sur un projet en C. Le projet consiste en un programme permettant de générer des images de Mandelbrot. En manipulant plusieurs fichiers source (.c et .h) ainsi qu’un makefile, nous avons appris à :
+
+Utiliser GitHub pour le partage et la gestion de code.
+Gérer un projet avec des branches et effectuer des merges.
+Comprendre l'architecture d'un programme complexe.
+Résoudre des erreurs dans le code et améliorer ses fonctionnalités.
+
+2. Étapes réalisées :
+
+Création et préparation du repository :
+
+Nous avons d'abord accédé au repository de notre professeur sur GitHub, puis effectué un fork afin d'avoir une copie du projet dans notre propre espace.
+Pour faciliter le travail local, nous avons généré une clé SSH publique sur notre machine et l'avons ajoutée à notre compte GitHub. Cela nous a permis de cloner le repository sur notre machine locale et de collaborer efficacement.
+Manipulation des fichiers et exécution des exercices :
+
+Les exercices proposés dans le TP consistaient à :
+Manipuler et comprendre la structure des fichiers du projet.
+Corriger certains fichiers pour résoudre des erreurs ou améliorer les fonctionnalités.
+Vérifier le fonctionnement du programme après chaque modification.
+Gestion de l’historique des changements :
+
+À chaque étape, nous avons utilisé Git pour effectuer des commits et des pushes, créant ainsi un historique détaillé des modifications effectuées sur le projet.
+Création d’un schéma explicatif :
+
+Nous avons conçu un schéma décrivant le rôle de chaque fichier dans le projet. Cela nous a aidés à mieux comprendre l'architecture et les interactions entre les différents fichiers.
+Création et gestion des branches :
+
+Une branche appelée ColorSupport a été créée pour résoudre un problème lié à l’affichage des couleurs dans les images de Mandelbrot.
+Une fois la correction effectuée et testée, nous avons fusionné (merge) cette branche avec la branche principale (main) pour intégrer tous les changements.
+Migration vers un repository public :
+
+À la fin du projet, nous avons transféré le contenu de nos repositories locaux et de travail dans un nouveau repository public afin de partager les résultats de notre travail.
+
+3. Obstacles rencontrés :
+
+Problème avec la clé SSH : La configuration initiale de la clé SSH a nécessité quelques recherches pour bien comprendre son fonctionnement et s’assurer qu’elle soit reconnue par GitHub.
+Gestion des conflits lors du merge : Pendant la fusion des branches, nous avons rencontré un conflit dans certains fichiers. Il a fallu analyser les différences pour résoudre ces conflits.
+
+4. Conclusion et perspectives :
+
+Ce TP nous a permis de consolider nos compétences en gestion de projets collaboratifs sur GitHub, ainsi qu’en programmation en C. Nous avons appris à gérer un projet complexe, de la configuration initiale au partage final du code. 
+
+
+
+Travail réalisé par Ibrahim El Bouhali et Ilias Halmi.
